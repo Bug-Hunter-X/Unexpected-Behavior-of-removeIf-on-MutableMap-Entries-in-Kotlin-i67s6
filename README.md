@@ -1,0 +1,1 @@
+This repository demonstrates a subtle but important difference in how `removeIf` functions when applied to `MutableList` and `MutableMap` entries in Kotlin.  The example shows that removing elements while iterating can lead to unexpected results. The solution shows the proper approach to avoid this unexpected behavior.
